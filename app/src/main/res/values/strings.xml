@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CafeCo</string>
+    <string name="ocasion">Occasion?</string>
+    <string name="table_no">Table no.</string>
+    <string name="book_a_place">Book a Place</string>
+</resources>
